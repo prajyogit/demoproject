@@ -1,6 +1,0 @@
-Thisrd file for checking contencts are pushing or not
-<<<<<<< HEAD
-=======
-Just checking the mrge
-
->>>>>>> branch2
