@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 testing the branch.
 
 Checking the first branch push
 
+=======
+testing the branch
+
+Checking again the first branch
+>>>>>>> first_branch
